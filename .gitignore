@@ -1,0 +1,10 @@
+/build/
+/nbproject/private/
+/dist/
+<<<<<<< HEAD
+DS_Store
+.DS_Store
+=======
+.DS_Store
+DS_Store
+>>>>>>> 9daad8c042f5354981f269d4cc005ab4ac2f5da9
